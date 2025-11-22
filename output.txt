@@ -1,0 +1,4 @@
+output data.txt: System is in a SAFE state.
+                Safe sequence: P0 -> P1 -> P2 -> P3 -> P4
+
+output data_unsafe.txt: System is NOT in a safe state.
