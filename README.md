@@ -1,6 +1,5 @@
-##Compilation: 
-g++ main.cpp bankers.cpp -o banker
-##Run: 
+##Compilation and running: 
+g++ main.cpp bankers.cpp -o banker 
 ./banker
 To run the unsafe input file replace the txt file in line 9 of main.cpp with data_unsafe.txt
 
